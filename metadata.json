@@ -1,0 +1,6 @@
+{
+  "name": "StudyVault",
+  "description": "AI-powered local video study hub with Bento UI, Gemini summarization & tutoring, flashcards, interactive quizzes, note taking, and LAN streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
